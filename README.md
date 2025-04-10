@@ -5,13 +5,13 @@ It analyzes user-product ratings to recommend the most relevant products to each
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 To group similar users using **KMeans clustering** and recommend the most popular products within their cluster, based on their previous ratings.
 
 ---
 
-## 🧠 Tech Stack & Tools
+## Tech Stack & Tools
 
 - **Python**
 - **Pandas** & **NumPy**
@@ -22,7 +22,7 @@ To group similar users using **KMeans clustering** and recommend the most popula
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 - `product_recommender_app.py` — Streamlit app script
 - `pivot_df.csv` — User-product matrix
@@ -33,7 +33,7 @@ To group similar users using **KMeans clustering** and recommend the most popula
 
 ---
 
-## 🔍 Key Features
+## Key Features
 
 - Loads user-product ratings dataset
 - Creates a pivot table (users × products)
@@ -44,7 +44,7 @@ To group similar users using **KMeans clustering** and recommend the most popula
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Install the requirements:
